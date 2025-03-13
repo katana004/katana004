@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=katana004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=false" alt="languages graph">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=katana004&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j">
 <!--
 **katana004/katana004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
